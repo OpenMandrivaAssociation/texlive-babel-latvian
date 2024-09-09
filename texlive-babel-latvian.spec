@@ -1,6 +1,6 @@
 Name:		texlive-babel-latvian
-Version:	46681
-Release:	2
+Version:	71108
+Release:	1
 Summary:	Babel support for Latvian
 Group:		Publishing
 URL:		http://www.ctan.org/tex-archive/macros/latex/contrib/babel-latvian
