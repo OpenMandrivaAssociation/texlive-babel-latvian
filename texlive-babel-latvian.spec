@@ -3,7 +3,7 @@ Version:	71108
 Release:	1
 Summary:	Babel support for Latvian
 Group:		Publishing
-URL:		http://www.ctan.org/tex-archive/macros/latex/contrib/babel-latvian
+URL:		https://www.ctan.org/tex-archive/macros/latex/contrib/babel-latvian
 License:	lppl1.3
 Source0:	http://mirrors.ctan.org/systems/texlive/tlnet/archive/babel-latvian.r%{version}.tar.xz
 Source1:	http://mirrors.ctan.org/systems/texlive/tlnet/archive/babel-latvian.doc.r%{version}.tar.xz
